@@ -1,0 +1,8 @@
+Game_name:test;
+Game_key:4a3bd5effb3ab4c;
+Title_img:WebGAL_New_Enter_Image.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Default_Language:zh_CN;
+Enable_Appreciation:false;
+Package_name:test-github-0.0.1alpha;

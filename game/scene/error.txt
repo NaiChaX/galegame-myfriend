@@ -1,0 +1,5 @@
+
+setTextbox:hide;
+setTextbox:on;
+雨姐:你做了错误的选择;
+changeFigure:stand.webp;

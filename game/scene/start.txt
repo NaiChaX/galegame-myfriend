@@ -1,0 +1,16 @@
+; 初始场景，以及特效演示
+bgm:选择背景音乐;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:欢迎|ZZQ这是专门为你做的|:) -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:bg.webp -next;
+unlockCg:bg.webp -name=良夜; // 解锁CG并赋予名称
+changeFigure:miniavatar.webp -left -next;
+setAnimation:enter-from-left -next -target=fig-center;
+雨姐:带派不老铁 -v1.wav;
+; 模版修改演示
+45码大汗脚 -v1.wav -fontSize=large;
+miniAvatar:miniavatar.webp;
+setTextbox:hide;
+changeFigure:stand.webp;
+changeFigure:miniavatar.webp -next;
+choose:1:true.txt|2:error.txt;
